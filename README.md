@@ -10,4 +10,4 @@ An object file is a work product that is output from the compiler. The object fi
 
 *Figure: Family three of some object file formats.*
 
-The above figure shows the evolvement of objects files. First there was assembler output (a.out) which evolved into Common Object File Format (COFF). Then more recently there is Portable Execution (PE) for Windows, Mach-O for Apple OS/X, and Executable and Linkable Format (ELF) for Unix. Note that ELF is not limited to UNIX since it is cross platform and is for example commonly used in embedded systems.
+The above figure shows the evolvement of objects file formats. First there was assembler output (a.out) which evolved into Common Object File Format (COFF). Then more recently there is Portable Execution (PE) for Windows, Mach-O for Apple OS/X, and Executable and Linkable Format (ELF) for Unix. Note that ELF is not limited to UNIX since it is cross platform and is for example commonly used in embedded systems.
