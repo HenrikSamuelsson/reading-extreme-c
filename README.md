@@ -2,7 +2,13 @@
 
 Material related to reading the book Extreme C, written by Kamran Amini (Packt Publishing October 2019).
 
-## Object Files
+This book is not an beginners C programming book. If you have never done any C programming book you will need to read one or two introductory books first, to get some experience in C coding, and then get back to this book that will take your C skills to the next level.
+
+## Notes on Chapter 1 - Essential Features
+
+### Preprocessor Directives
+
+### Object Files
 
 An object file is a work product that is output from the compiler. The object file will depend on the platform for which the program is compiled. The platform dependencies will include the processor instruction set but there can then be other dependencies such as the available systems call to an underlying operating system.
 
