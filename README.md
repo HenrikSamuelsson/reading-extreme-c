@@ -4,11 +4,21 @@ Notes taken by reading the book Extreme C, written by Kamran Amini (Packt Publis
 
 ## About the Book
 
-This book is not an beginners C programming book. If you have never done any programming before you will need to get some prior experience before reading this book. Can for example read one or two introductory C programming books first, and then get back to this book that will take your C skills to the next level.
+This book is not an beginners C programming book. If you have never done any programming before you will need to get some prior experience before reading this book. Can for example read one or two introductory C programming books first, and then get back to this book to take your C skills to the next level.
 
 ## Chapter 1 - Essential Features
 
+First chapter discusses a small selection of C features. Many of these features are a little more advanced and will in introductory books typically just be briefly explained. The strategy used in this book is to intentionally leave out much content on C basics and instead include coverage of more advanced features.
+
 ### Preprocessor Directives
+
+### Variable Pointers
+
+### Some Detail About Functions
+
+### Function Pointers
+
+### Structures
 
 ## Chapter 3 - Object Files
 
