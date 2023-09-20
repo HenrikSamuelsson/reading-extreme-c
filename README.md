@@ -14,7 +14,7 @@ First chapter discusses a small selection of C features. Many of these features 
 
 ### Variable Pointers
 
-### Some Detail About Functions
+### Some Details About Functions
 
 ### Function Pointers
 
