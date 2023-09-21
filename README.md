@@ -12,6 +12,8 @@ First chapter discusses a small selection of C features. Many of these features 
 
 ### Preprocessor Directives
 
+The preprocessor runs before the compiler. Functionalities provided by the preprocessor is to help out to introduce changes to the source code by the use of macros. This means that the code will typically not be the same before and after having been handled by the preprocessor but the code will still be in human readable text format.
+
 ### Variable Pointers
 
 ### Some Details About Functions
