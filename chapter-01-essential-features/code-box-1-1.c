@@ -9,6 +9,6 @@ int main(int argc, char **argv)
     int z = x + y;
 
     printf("%d + %d = %d", x, y, z);
-    
+
     return 0;
 }
