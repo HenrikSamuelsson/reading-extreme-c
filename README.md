@@ -16,7 +16,7 @@ The C preprocessor implements the macro language used to transform C, C++, and O
 
 A notable resource, to learn more, about the preprocessor is the [GCC CPP Manual](https://gcc.gnu.org/onlinedocs/gcc-13.2.0/cpp/). Note that CPP in this context stands for C preprocessor, and not C++.
 
-Lines of codes meant for the preprocessor are called *directives* and shall start with the `#` symbol followed by special instructions for the preprocessor to act on. More or less any C program will use preprocessor directives to some extent.
+Lines of codes meant for the preprocessor are called *directives* and shall start with the `#` symbol followed by special instructions for the preprocessor to act on. Almost all C programs will use preprocessor directives to some extent. This means that to be proficient in the C programming language one must know about preprocessor macros.
 
 ### Variable Pointers
 
